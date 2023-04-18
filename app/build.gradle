@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'javax.xml.parsers:jaxp-api:1.4.5'
+}
